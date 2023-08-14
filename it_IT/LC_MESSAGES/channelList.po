@@ -19,7 +19,7 @@ msgid "PREV"
 msgstr "Pagina precedente"
 
 msgid "UPPERSUBBOTTOM"
-msgstr "Per favore, seleziona un canale!"
+msgstr "Per favore, seleziona un canale"
 
 msgid "UPPERTITLE"
 msgstr "Canali"
